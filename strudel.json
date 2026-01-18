@@ -1,15 +1,1 @@
-{
-  "dc_kick": "kick/**/*.wav",
-  "dc_snare": "snare/**/*.wav",
-  "dc_hihat": "hihat/**/*.wav",
-  "dc_cymbal": "cymbal/**/*.wav",
-  "dc_perc": "percussion/**/*.wav",
-  "dc_bass": "bass/**/*.wav",
-  "dc_synth": "synth/**/*.wav",
-  "dc_keys": "keys/**/*.wav",
-  "dc_pad": "pad/**/*.wav",
-  "dc_lead": "lead/**/*.wav",
-  "dc_fx": "fx/**/*.wav",
-  "dc_vocal": "vocal/**/*.wav",
-  "dc_loop": "loop/**/*.wav"
-}
+{"dc_bass": "bass/**/*.wav"}
